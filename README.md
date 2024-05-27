@@ -17,6 +17,7 @@ Java,JSP,MySQL
 <img src="https://github.com/Glass-Yul/Semi-Project/assets/98271218/efab8b19-5d47-4797-b188-05994a7448b1" width="800">
 
 ## 📑 프로젝트 구조
+[순서도.pdf](https://github.com/Glass-Yul/Semi-Project/files/15451316/default.pdf)
 
 
 ## 📌 주요 기능
